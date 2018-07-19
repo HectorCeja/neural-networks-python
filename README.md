@@ -1,2 +1,2 @@
 # neuronal-networks-python
-Neuronal networks practice
+Neural networks practice
